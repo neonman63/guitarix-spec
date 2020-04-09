@@ -11,8 +11,8 @@ Version:        0.39.0
 Release:        1%{?dist}
 Summary:        Mono amplifier to JACK
 License:        GPLv2+
-URL:            http://guitarix.sourceforge.net/
-Source0:        http://sourceforge.net/projects/%{name}/files/%{name}/%{altname2}-%{version}.tar.xz
+URL:            https://guitarix.sourceforge.net/
+Source0:        https://sourceforge.net/projects/%{name}/files/%{name}/%{altname2}-%{version}.tar.xz
 
 BuildRequires:  gcc-c++
 BuildRequires:  python3
